@@ -1,0 +1,15 @@
+@-moz-document domain("csdn.net") {
+main div.blog-content-box pre {
+  max-height: 100%;
+}
+main div.blog-content-box pre.set-code-hide {
+  height: 100%;
+}
+}
+
+@-moz-document domain("tieba.baidu.com") {
+  .forum_content .main {
+    float: left;
+    width: auto;
+  }
+}

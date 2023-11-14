@@ -1,0 +1,76 @@
+! 2023-10-16 www.zhihu.com
+www.zhihu.com##.css-woosw9
+
+! 2023-10-16 blog.csdn.net
+blog.csdn.net##.passport-auto-tip-login-container
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.type_download
+blog.csdn.net###recommend-item-box-tow
+
+csdnimg.cn/release/passport_fe/assets/js/loginv3.*.js
+g.csdnimg.cn/common/csdn-report/report.js
+csdnimg.cn/release/blogv2/dist/components/js/pc_wap_commontools-*.min.js
+g.csdnimg.cn/common/csdn-toolbar/csdn-toolbar.js
+g.csdnimg.cn/baidu-search/1.0.12/baidu-search.js
+csdnimg.cn/release/download/old_static/js/qrcode.js
+csdnimg.cn/release/phoenix/production/qrcode-7c90a92189.min.js
+g.csdnimg.cn/common/csdn-login-box/csdn-login-box.js
+g.csdnimg.cn/collection-box/2.1.2/collection-box.js
+csdnimg.cn/release/blogv2/dist/pc/js/detail-*.min.js
+csdnimg.cn/release/blogv2/dist/components/js/pc_wap_common-*.min.js
+g.csdnimg.cn/common/csdn-footer/csdn-footer.js
+g.csdnimg.cn/lib/qrcode/1.0.0/qrcode.min.js
+g.csdnimg.cn/??fixed-sidebar/1.1.7/fixed-sidebar.js
+s3a.pstatp.com/toutiao/push.js
+g.csdnimg.cn/copyright/1.0.4/copyright.js
+g.csdnimg.cn/??sharewx/1.2.1/sharewx.js
+csdnimg.cn/release/blogv2/dist/components/js/edit_copy_code-*.min.js
+csdnimg.cn/release/blogv2/dist/components/js/pc_wap_highlight-*.min.js
+g.csdnimg.cn/user-tooltip/2.7/user-tooltip.js
+g.csdnimg.cn/user-medal/2.0.0/user-medal.js
+g.csdnimg.cn/user-accusation/1.0.6/user-accusation.js
+g.csdnimg.cn/user-ordercart/3.0.1/user-ordercart.js
+g.csdnimg.cn/user-ordertip/5.0.1/user-ordertip.js
+g.csdnimg.cn/order-payment/4.0.3/order-payment.js
+g.csdnimg.cn/lib/swiper/6.0.4/js/swiper.js
+g.csdnimg.cn/side-toolbar/*
+! 2023-11-02 superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+www.88yydstxt178.com/js/wap8.js
+www.88yydstxt178.com/js/htmlkc.js
+www.88yydstxt178.com/js/htmlka.js
+www.88yydstxt178.com/js/htmlkb.js
+www.88yydstxt178.com/js/htmlkcc.js
+www.88yydstxt178.com/js/cdn.js
+www.88yydstxt178.com/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js
+www.88yydstxt178.com/js/pc.js
+
+
+
+! 2023-11-03 www.88yydstxt178.com
+www.88yydstxt178.com##.header
+www.88yydstxt178.com##.hd
+www.88yydstxt178.com##.tuijian
+www.88yydstxt178.com##.footer
+www.88yydstxt178.com##.slide-baidu
+www.88yydstxt178.com###tip
+
+! 2023-11-04 cn.bing.com
+cn.bing.com###idCont
+
+59bbkk.vip/js/yx.js
+59bbkk.vip/html/1011/*.js
+
+! 2023-11-10 stackoverflow.com
+stackoverflow.com##.js-consent-banner
+
+! 2023-11-11 tieba.baidu.com
+tieba.baidu.com##.aside
+tieba.baidu.com##.tbui_aside_float_bar
+tieba.baidu.com##.head_main
+tieba.baidu.com##.clearfix.search_top
+tieba.baidu.com###com_userbar
+tieba.baidu.com##.header
+tieba.baidu.com##.foot
+
